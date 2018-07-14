@@ -6,3 +6,6 @@
     - [Git](https://git-scm.com/)
 - ### Mac
     - [Visual Studio Code](https://code.visualstudio.com/)
+
+## VS Code Extension
+1. Material Icon Theme
