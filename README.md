@@ -2,7 +2,7 @@
 
 ## สิ่งที่ต้องมี
 - Windows
-    1. [Visual Studio Code](https://code.visualstudio.com/)
-    2. [Git](https://git-scm.com/)
+    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [Git](https://git-scm.com/)
 - Mac
-    1. [Visual Studio Code](https://code.visualstudio.com/)
+    - [Visual Studio Code](https://code.visualstudio.com/)
