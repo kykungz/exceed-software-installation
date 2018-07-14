@@ -1,8 +1,8 @@
 # eXceed Camp 15th Software Installation
 
 ## สิ่งที่ต้องมี
-- Windows
+- ### Windows
     - [Visual Studio Code](https://code.visualstudio.com/)
     - [Git](https://git-scm.com/)
-- Mac
+- ### Mac
     - [Visual Studio Code](https://code.visualstudio.com/)
