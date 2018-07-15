@@ -9,3 +9,4 @@
 
 ## VS Code Extension
 1. Material Icon Theme
+2. jQuery Code Snippets
