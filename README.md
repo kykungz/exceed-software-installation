@@ -8,5 +8,6 @@
     - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## VS Code Extension
+(ถ้าลงไม่เป็นเดี๋ยววันจันทร์ค่อยลงก็ได้)
 1. Material Icon Theme
 2. jQuery Code Snippets
